@@ -1,2 +1,2 @@
-# HTML-CSS-JavaScript
-Learing HTML-CSS-JavaScript online
+# HTML-CSS
+Learning HTML-CSS
